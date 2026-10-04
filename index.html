@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Your Name</title>
+  <meta name="description" content="One-line summary of who you are and what you do.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a href="#" class="logo">Your Name</a>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#work">Work</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Hi, I'm Your Name.</h1>
+      <p class="lead">One-line summary of what you do and who you do it for.</p>
+      <a href="#contact" class="button">Get in touch</a>
+    </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <p>A short paragraph about what you do now.</p>
+      <p>A short paragraph about how you got here and what you care about.</p>
+    </section>
+
+    <section id="work">
+      <h2>Work</h2>
+      <div class="cards">
+        <article class="card">
+          <h3>Project one</h3>
+          <p>One sentence on the outcome.</p>
+          <a href="#">Read more →</a>
+        </article>
+        <article class="card">
+          <h3>Project two</h3>
+          <p>One sentence on the outcome.</p>
+          <a href="#">Read more →</a>
+        </article>
+        <article class="card">
+          <h3>Project three</h3>
+          <p>One sentence on the outcome.</p>
+          <a href="#">Read more →</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>The best way to reach me is by email.</p>
+      <ul class="links">
+        <li><a href="mailto:you@example.com">Email</a></li>
+        <li><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></li>
+        <li><a href="https://github.com/your-username">GitHub</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Your Name</p>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
