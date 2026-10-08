@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "garmin": {
+      "command": "/Users/max.tranter/.local/bin/uvx",
+      "args": [
+        "--python",
+        "3.12",
+        "--from",
+        "git+https://github.com/Taxuspt/garmin_mcp@cfc5d799ab0f165e837f1188a1d093c65838aaf7",
+        "garmin-mcp"
+      ],
+      "env": {
+        "GARMIN_ENABLED_TOOLS": "get_activities,get_activities_by_date,get_activities_fordate,get_activity,get_activity_splits,get_activity_typed_splits,get_activity_split_summaries,get_activity_hr_in_timezones,get_activity_power_in_timezones,get_activity_exercise_sets,get_sleep_data,get_sleep_summary,get_sleep_summary_range,get_rhr_day,get_hrv_data,get_body_composition,get_weigh_ins,get_daily_weigh_ins,get_training_status,get_cycling_ftp,get_lactate_threshold,get_vo2max_trend,get_workouts,get_workout_by_id,get_scheduled_workouts,get_calendar_events,upload_workout,create_run_workout,create_run_interval_workout,create_strength_workout,schedule_workout,schedule_workouts,schedule_week,unschedule_workout,unschedule_workouts"
+      }
+    }
+  }
+}
