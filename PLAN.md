@@ -17,7 +17,7 @@ Core features:
 
 ## 2. The season
 - **Start:** Monday 12 October 2026, taking over from Runna (whose plan ended with Bridge to Brisbane). The first two weeks include a Zwift FTP test and a threshold run, which cross-checks the Bridge to Brisbane 10 km (the main run benchmark).
-- **Swimming starts late:** Max's usual pool is closed until summer. Plan swimming to start in **November 2026, and allow for it to start later**. The swim test (timed 400 m and 200 m) is the first pool session. The start date must be easy to move, and the plan adjusts once the first swim is recorded.
+- **Swimming starts late:** Max's usual pool is closed until summer. Plan swimming to start in **November 2026, and allow for it to start later**. The swim test (timed 400 m and 200 m) is the first pool session. The start date must be easy to move, and the plan adjusts once the first swim is recorded. No swims are planned before then. An occasional open-water swim is saved as a standalone activity.
 - **Total length:** about 60 weeks.
 
 | Race | Date | Role | Goal |
