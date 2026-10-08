@@ -16,7 +16,8 @@ Core features:
 4. A training calendar
 
 ## 2. The season
-- **Start:** Monday 12 October 2026. The first two weeks include benchmark tests: swim (timed 400 m and 200 m), run threshold, and Zwift FTP.
+- **Start:** Monday 12 October 2026, taking over from Runna (whose plan ended with Bridge to Brisbane). The first two weeks include a Zwift FTP test and a threshold run, which cross-checks the Bridge to Brisbane 10 km (the main run benchmark).
+- **Swimming starts late:** Max's usual pool is closed until summer. Plan swimming to start in **November 2026, and allow for it to start later**. The swim test (timed 400 m and 200 m) is the first pool session. The start date must be easy to move, and the plan adjusts once the first swim is recorded.
 - **Total length:** about 60 weeks.
 
 | Race | Date | Role | Goal |
@@ -35,19 +36,55 @@ Gaps between races, worked out from the dates:
 ## 3. Athlete starting point
 | Sport | Status | Benchmarks |
 |---|---|---|
-| Swim | Weakest sport. Mostly pool, occasional open water. Not swum since winter. | 70.3 swim 46 min. Needs a test. |
-| Bike | Strongest sport. Heart-rate strap; power only on Zwift (smart trainer). No outdoor power meter. | FTP about 245 W. 70.3 ride 3:06. |
-| Run | Much improved since the last 70.3, where it faded through running out of energy. Easy runs by heart rate and pace, intervals by pace. | Watch threshold 4:50/km at 170 bpm (probably optimistic). 10 km race 51:00 (5:06/km). 70.3 run 2:15. |
+| Swim | Weakest sport. Mostly pool, occasional open water. Last pool swim 16 Apr 2026. | 70.3 swim 46 min (about 2:25/100 m). Needs a test. |
+| Bike | Strongest sport. Heart-rate strap; power only on Zwift (smart trainer). No outdoor power meter. | FTP about 245 W (Garmin's stored 227 W is from Nov 2024 and stale). 70.3 ride 3:06. |
+| Run | Much improved since the last 70.3, where it faded through running out of energy. Easy runs by heart rate and pace, intervals by pace. | **Bridge to Brisbane 10 km, 13 Sep 2026:** 51:25 (5:07/km), average HR 168, 9.5–10/10 effort. **Working threshold: about 5:15/km at 168–170 bpm** (estimate). 70.3 run 2:15. |
 
-Experience: every triathlon distance except a full Ironman.
+Experience: every triathlon distance except a full Ironman. Last 70.3: Castlereagh, 3 May 2026, 6:20.
+
+### Baseline from Garmin (pulled 9 October 2026)
+Times are Brisbane local time.
+
+**Weekly hours** (monthly total ÷ weeks in the month):
+
+| Month | Hours/week | Context |
+|---|---|---|
+| Apr 2026 | 8.8 | 70.3 build |
+| May | about 5 | race, recovery, travel |
+| Jun | 5.9 | run and gym focus |
+| Jul | 6.1 | longest run 30 km |
+| Aug | 4.9 | |
+| Sep | 5.9 | bike building back up |
+
+**Starting volume: about 5–6 hours a week.**
+
+**Run:**
+- All runs averaged 6:36/km in June and about 6:04/km in Sep–Oct.
+- Easy runs (average HR 148 or below): 6:56/km at 143 bpm in June; 6:06–6:24/km at 139–142 bpm in Sep–Oct.
+- Efficiency (metres per heartbeat) up about 10%, from 1.02 to 1.12–1.15.
+- 20–32 km a week.
+
+**Bike:**
+- About 1.5–2 hours a week from June to August; rides of 60 and 85 km in September.
+- Outdoor rides about 22–26 km/h at about 121 bpm.
+- Zwift FTP ramp test on 15 Jul 2026.
+
+**Swim** (pace = total time ÷ distance, including rests):
+- About 3:00/100 m in Nov 2025, improving to 2:32/100 m in Mar 2026 (9 swims, 11.7 km that month).
+- Best session: 1,950 m at 2:02/100 m (23 Mar 2026).
+- Peak frequency about 2 swims a week of 1.2–2 km.
+- Expect to restart near the Dec 2025 level (about 2:50/100 m).
+
+**Gym:**
+- About 1.5 sessions a week, usually 50–75 minutes.
 
 ## 4. Weekly template
 - **Sessions:** 1–2 a day, with **no more than one session per sport per day**
 - **Friday:** rest. **Saturday:** long ride. **Sunday:** long run.
-- **Gym:** 2 sessions a week (3 at most), 45–55 minutes each, written by the AI. Focus on supporting swim, bike and run, and injury prevention. Full commercial gym.
+- **Gym:** 2 sessions a week (3 at most), 45–55 minutes each, written by the AI. Focus on supporting swim, bike and run, and injury prevention. Full commercial gym. Max may add extras during a session (for example abs); Split doesn't need to capture these.
 - **Bricks:** two separate sessions (bike, then run) labelled as linked
 - **Race weeks:** break the usual template as needed (for example, the Olympic is on a Saturday)
-- **Weekly hours:** not fixed yet; adjust as we go
+- **Weekly hours:** start from the current 5–6 hours a week and build from there; adjust as we go
 
 ## 5. How the plan adapts
 Principles:
