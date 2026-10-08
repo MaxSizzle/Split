@@ -1,11 +1,7 @@
 # Split
 
-My personal website. Plain HTML and CSS, no build step.
+A training platform that plans a whole triathlon season with AI, then adapts the plan to actual performance from Garmin.
 
-## Files
-- `index.html`: the page content
-- `styles.css`: styling (change the colours in `:root` at the top)
-- `PLAN.md`: goals, structure, content checklist and hosting notes
+Currently a proof of concept for personal use, building towards Ironman Busselton (December 2027).
 
-## Preview
-Open `index.html` in a browser.
+See [PLAN.md](PLAN.md) for the full plan.
